@@ -1,17 +1,16 @@
-# what's this?
-This is a discord bot created to stop hoisting in your discord server
+# What's this?
+This is a Discord bot created to stop hoisting in your Discord server.
 
-# How to use
-- Download and install python from https://python.org/
-- `git clone https://github.com/aypro-droid/anti-hoisting-bot`
-- `cd anti-hoisiting-bot`
-- Put your discord bot's token in the `.env` file
-- Install the required modules using `pip install -r requirements.txt`
-- Run the bot using `python3 main.py`, if you are on windows then run this command `py -3 main.py`
-- Go to your discord server type and run `!start` command
+# How to use it
+- Download and install Python from https://python.org/.
+- Clone the repo by running `git clone https://github.com/aypro-droid/anti-hoisting-bot` in your terminal.
+- Change your currnet working directory to `anti-hoisiting-bot` by running `cd anti-hoisiting-bot` in your terminal.
+- Install the required modules by running `pip install -r requirements.txt` in your terminal.
+- Start the bot by running `python3 main.py` in your terminal. If you are using Windows, then run this command `py -3 main.py`.
+- Go to your Discord server type and run the `!start` command.
 
 # Support/Reports
 If you want help with this bot or want to report something, create an issue.
 
 # Contributions
-If you would like to contribute to the development of this bot, simply create a pull request.
+If you would like to contribute to the development of this bot, simply create a pull request or donate.
