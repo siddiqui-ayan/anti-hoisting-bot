@@ -5,6 +5,7 @@ This is a discord bot created to stop hoisting in your discord server
 - Download and install python from https://python.org/
 - `git clone https://github.com/aypro-droid/anti-hoisting-bot`
 - `cd anti-hoisiting-bot`
+- Put your discord bot's token in the `.env` file
 - Install the required modules using `pip install -r requirements.txt`
 - Run the bot using `python3 main.py`, if you are on windows then run this command `py -3 main.py`
 - Go to your discord server type and run `!start` command
