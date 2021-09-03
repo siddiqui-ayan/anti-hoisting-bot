@@ -1,5 +1,5 @@
 # what's this?
-This is a discord bot created to stop hoisting in your discord server(example: putting chars like '!' or '?' to appear on top of the other users.)
+This is a discord bot created to stop hoisting in your discord server
 
 # How to use
 - Download and install python from https://python.org/
